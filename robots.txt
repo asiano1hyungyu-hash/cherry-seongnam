@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://massage-platform.seongnamcherry.workers.dev/sitemap.xml
-RSS: https://massage-platform.seongnamcherry.workers.dev/rss.xml
-Host: massage-platform.seongnamcherry.workers.dev
+Sitemap: https://cherryseongnam.yongincherry.workers.dev/sitemap.xml
+RSS: https://cherryseongnam.yongincherry.workers.dev/rss.xml
+Host: cherryseongnam.yongincherry.workers.dev
